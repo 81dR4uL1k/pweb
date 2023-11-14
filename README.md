@@ -10,8 +10,10 @@ apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://git
 apt install wget -y; bash <(wget -qO- https://github.com/81dR4uL1k/pweb/raw/main/sincpainel.sh)
 ```
 
-📜 Menu Apache ->
+#📜 Menu Apache
+```
 apt install dos2unix -y; wget https://github.com/81dR4uL1k/pweb/raw/main/apache2menu && chmod +x apache2menu && dos2unix apache2menu && ./apache2menu
+```
 
 # ✅ ATUALIZAÇÃO 29/08/2022
 ```
