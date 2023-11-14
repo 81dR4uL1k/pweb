@@ -21,16 +21,16 @@ clear
 mkdir /bin/ppweb > /dev/null 2>&1
 cd /bin/ppweb || exit
 rm *.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/install.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/ubuinst.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/senharoot.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/restbanco.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/restbanco18.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/empresa.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/updatepainel.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/updatepainel18.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/updatepainelarm.sh > /dev/null 2>&1
-wget https://github.com/81dR4uL1k/raw/main/pweb/updatepainelarm18.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/install.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/ubuinst.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/senharoot.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/restbanco.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/restbanco18.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/empresa.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/updatepainel.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/updatepainel18.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/updatepainelarm.sh > /dev/null 2>&1
+wget https://github.com/81dR4uL1k/pweb/raw/main/pweb/updatepainelarm18.sh > /dev/null 2>&1
 chmod 777 *.sh > /dev/null 2>&1
 clear
 echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • \033[0m"
