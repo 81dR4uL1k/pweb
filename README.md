@@ -1,4 +1,4 @@
-# 👨‍💻 PAINELWEB GESTOR-SSH SWIT-T
+# 👨‍💻 PAINELWEB
 ⚠ SISTEMAS SUPORTADOS: (DEBIAN 8, UBUNTU 14 E UBUNTU 18!).⚠ </br>
 ⚠  VPS RECOMENDADA PARA PAINEL WEB: https://www.avirahost.com.br/aff.php?aff=108 ⚠
 ```
@@ -10,7 +10,7 @@ apt update -y; apt upgrade -y; apt install wget -y; bash <(wget -qO- https://git
 apt install wget -y; bash <(wget -qO- https://github.com/81dR4uL1k/pweb/raw/main/sincpainel.sh)
 ```
 
-#📜 Menu Apache
+# 📜 Menu Apache
 ```
 apt install dos2unix -y; wget https://github.com/81dR4uL1k/pweb/raw/main/apache2menu && chmod +x apache2menu && dos2unix apache2menu && ./apache2menu
 ```
